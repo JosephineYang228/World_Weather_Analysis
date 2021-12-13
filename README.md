@@ -8,3 +8,4 @@ Data Source: OpenWeatherMap, Google Maps
 It takes a long time to run codes.
 I don't know what's wrong with the dataframe output since I think the info is all gathered and the command to save as csv file is also correct.
 Although I have import the gmaps in python but the layer can not seen.
+Course pages from Canvas is helpful but seems last modified almost 2 years ago. Sometimes it's confusing to use it as a reference.
